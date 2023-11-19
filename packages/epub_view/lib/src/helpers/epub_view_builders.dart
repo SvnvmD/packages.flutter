@@ -76,8 +76,7 @@ class DefaultBuilderOptions {
     this.chapterPadding = const EdgeInsets.all(8),
     this.paragraphPadding = const EdgeInsets.symmetric(horizontal: 16),
     this.textStyle = const TextStyle(
-      height: 1.25,
-      fontSize: 16,
+      height: 1.25
     ),
   });
 
