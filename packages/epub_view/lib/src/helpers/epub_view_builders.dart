@@ -73,8 +73,8 @@ class DefaultBuilderOptions {
   const DefaultBuilderOptions({
     this.loaderSwitchDuration = const Duration(seconds: 1),
     this.transitionBuilder = DefaultBuilderOptions._transitionBuilder,
-    this.chapterPadding = const EdgeInsets.all(8),
-    this.paragraphPadding = const EdgeInsets.symmetric(horizontal: 16),
+    //this.chapterPadding = const EdgeInsets.all(8),
+    //this.paragraphPadding = const EdgeInsets.symmetric(horizontal: 16),
     this.textStyle = const TextStyle(
       height: 1.25
     ),
